@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.container {
+    margin: 100px auto;
+    padding: 40px;
+    max-width: 500px;
+    background-color: blue ;
+    border-radius:4px;
+}
